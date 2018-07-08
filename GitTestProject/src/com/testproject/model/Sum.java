@@ -7,7 +7,8 @@ public class Sum {
 		int a=10;
 		int b=20;
 		int c=30;
-		System.out.println(a+b+c);
+		int e=40;
+		System.out.println(a+b+c+e);
 	}
 
 }
